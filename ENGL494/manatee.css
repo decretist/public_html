@@ -1,0 +1,7 @@
+body { font-family: Andale Mono; font-size: 150% }
+h1 { text-align: center }
+h2 { color: gray; text-align: center }
+img.center { display: block; margin: 0 auto; }
+p.gray { color: gray }
+p.green { color: green }
+
